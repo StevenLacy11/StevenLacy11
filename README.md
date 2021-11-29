@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [http://www.linkedin.com/in/steven-lacy](http://www.linkedin.com/in/steven-lacy)
 
-- ⚡ Fun fact **Ive flown a airplane and drove a nascar before.**
+- ⚡ Fun fact **I've flown an airplane and drove a nascar before.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
