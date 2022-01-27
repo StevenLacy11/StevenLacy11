@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven Lacy</h1>
 <h3 align="center">A passionate Full Stack Web Developer from New Braunfels, TX</h3>
 
-- 🌱 I’m currently Working on **a Full Stack application**
+- 🌱 I’m currently Working on **a Full Stack application (Wander)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StevenLacy11](https://github.com/StevenLacy11)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Wander**
 
 - 📫 How to reach me **StevenLacy11@gmail.com**
 
