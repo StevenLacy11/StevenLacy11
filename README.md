@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Steven Lacy</h1>
-<h3 align="center">A passionate Full Stack Web Developer from New Braunfels, TX</h3>
+<h3 align="center">An Associate Engineer at Texas Capital Bank.</h3>
 
-- 🌱 I’m currently Working on **Learning Python**
+- 🌱 I’m currently Working on **Learning AWS automation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/StevenLacy11](https://github.com/StevenLacy11)
 
-- 💬 Ask me about **Wander**
+- 💬 Ask me about **My process of getting a Software Engineering job with out a Degree.**
 
 - 📫 How to reach me **StevenLacy11@gmail.com**
 
